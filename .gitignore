@@ -1,0 +1,8 @@
+# Topologias e conteudos extraidos ficam fora do repositorio.
+*.pkt
+*.pka
+*.xml
+*.txt
+!LICENSE-pkt-reference.txt
+*.o
+*.out
